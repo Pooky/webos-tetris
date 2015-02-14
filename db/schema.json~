@@ -1,0 +1,19 @@
+[
+{
+"table": "favorite_books",
+"columns": [
+{
+"column": "rowID",
+"type": "INTEGER",
+"constraints": ["PRIMARY KEY"]
+},
+{
+"column": "author",
+"type": "TEXT"
+},
+{
+"column": "title",
+"type": "TEXT"
+}
+]
+},
